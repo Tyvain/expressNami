@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/bitnami/bitnami-docker-express/tree/master.svg?style=shield)](https://circleci.com/gh/bitnami/bitnami-docker-express/tree/master)
 [![Docker Hub Automated Build](http://container.checkforupdates.com/badges/bitnami/express)](https://hub.docker.com/r/bitnami/express/)
 
-# Bitnami Express Development Container
+# Bitnami Express Development 
 
 ## TL;DR;
 
