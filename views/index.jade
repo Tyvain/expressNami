@@ -3,7 +3,7 @@ extends layout
 block content
   h1= title
   p 2 Welcome to #{title}
-  form(action="/postmail", name="add-estimation", method="post")
+  form(name="add-estimation", method="post")
     div.input
       span.label Title
         input(type="text", name="title")

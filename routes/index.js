@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 /* Send mail */
-router.post('/postmail', function (req, res) {
+router.post('/', function (req, res) {
     console.log(req.body.title);
     console.log(req.body.description);
 });
